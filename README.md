@@ -7,6 +7,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 
 Click on the link below to see the final dashboard which includes a gauge chart, bubble chart, horizontal bar chart, and a summary of the metadata for the human that the sample came from.
+
+
 https://kwassi09.github.io/Belly_Button_Biodiversity-plot.ly-javascript/
 
 
