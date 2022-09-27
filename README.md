@@ -15,15 +15,14 @@ https://kwassi09.github.io/Belly_Button_Biodiversity-plot.ly-javascript/
  
 
 ## Tools
-These are the tools, techniques, and resources used in this project.
-
-* Plotly is used in combination with D3 and Javascript to generate the plots
+These are the tools, techniques, and resources used for this work.
 
 * HTML is used for the framework of the page
-
+* Plotly is used in combination with D3 and Javascript to generate the plots
+* The data is stored in JSON format and imported in the script
 * Github Pages is used to host the data and final application
 
-* The data is stored in JSON format and imported in
+
 
 
 
